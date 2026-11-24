@@ -1,0 +1,29 @@
+# Virtual environments & Python caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Runtime ImGui window layouts & temporary files
+*.ini
+*.log
+*.tmp
+
+# Local user exports & media dumps
+exports/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.gif
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
